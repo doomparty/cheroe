@@ -1,5 +1,5 @@
 FROM node:latest
-EXPOSE 3000
+EXPOSE 5000
 WORKDIR /app
 USER root
 
